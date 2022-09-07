@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST=School, func(){echo "local BEST is $BEST"}
+BEST=School | echo $BEST
