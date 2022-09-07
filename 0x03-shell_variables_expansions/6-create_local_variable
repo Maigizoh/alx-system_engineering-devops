@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST=School | echo $BEST
+echo "Local BEST is School"
