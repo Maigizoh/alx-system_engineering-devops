@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Local BEST is School"
+echo "$LocalBEST School"
